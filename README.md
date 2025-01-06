@@ -80,6 +80,7 @@ Pada bagian akhir ini codingan ini dilakukan iterasi melalui daftar tiket (ticke
 
 Format String:
     - Menyusun data setiap tiket berdasarkan kolom yang telah didefinisikan di header.
+    
     - Akses data dari setiap tiket dengan ticket['name'], ticket['destination'], dan ticket['quantity'].
 
 ## Class Process
