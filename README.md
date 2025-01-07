@@ -91,6 +91,7 @@ Pada code class TicketProcess ini biasanya dilakukan untuk mendefinisikan kelas 
 ![gambar1](screenshot/ss1process.png) 
 
 - __init__: Ini adalah konstruktor kelas yang dipanggil saat objek dari kelas ini dibuat. Konstruktor ini memiliki parameter data, yang diharapkan adalah objek yang memiliki metode untuk menambah tiket (seperti add_ticket).
+  
 - self.data = data: Ini menyimpan parameter data dalam atribut instance self.data, sehingga bisa diakses oleh metode lain dalam kelas.
 
 ### Step 2
@@ -185,3 +186,6 @@ Berikut adalah contoh interaksi pengguna saat menjalankan program:
 
 ## KESIMPULAN
 Program pemesanan tiket yang sederhana ini berhasil menampilkan struktur dasar dari aplikasi interaktif yang dapat digunakan untuk pemesanan dan pengelolaan tiket. Dengan beberapa pengembangan lebih lanjut, program ini bisa menjadi alat yang lebih lengkap dan bermanfaat dalam manajemen pemesanan tiket. 
+
+# LINK YOUTUBE
+https://youtu.be/WGYb0dfIFxk?si=JiycXICEbEn2thk8
